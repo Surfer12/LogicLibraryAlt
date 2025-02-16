@@ -1,0 +1,480 @@
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(2): Expected device instantiation or directive here.
+"LTspice"
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(3): Expected device instantiation or directive here.
+1
+^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(4): Expected device instantiation or directive here.
+0
+^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(5): Expected device instantiation or directive here.
+0
+^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(6): Expected device instantiation or directive here.
+""
+^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(7): Expected device instantiation or directive here.
+""
+^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(8): Expected device instantiation or directive here.
+""
+^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(9): Expected device instantiation or directive here.
+"Part IDs Table"
+^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(10): Expected device instantiation or directive here.
+"M:1:1" "Sp2025P" ""
+^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(11): Expected device instantiation or directive here.
+"M:1:2" "Sp2025P" ""
+^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(12): Expected device instantiation or directive here.
+"M:1:3" "Sp2025N" ""
+^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(13): Expected device instantiation or directive here.
+"M:1:4" "Sp2025N" ""
+^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(14): Expected device instantiation or directive here.
+"V:1:1" "5" ""
+^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(15): Expected device instantiation or directive here.
+"M:2:1" "Sp2025P" ""
+^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(16): Expected device instantiation or directive here.
+"M:2:2" "Sp2025P" ""
+^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(17): Expected device instantiation or directive here.
+"M:2:3" "Sp2025N" ""
+^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(18): Expected device instantiation or directive here.
+"M:2:4" "Sp2025N" ""
+^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(19): Expected device instantiation or directive here.
+"V:2:1" "5" ""
+^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(20): Expected device instantiation or directive here.
+"M:7:1:1" "Sp2025P" ""
+^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(21): Expected device instantiation or directive here.
+"M:7:1:2" "Sp2025P" ""
+^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(22): Expected device instantiation or directive here.
+"M:7:1:3" "Sp2025N" ""
+^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(23): Expected device instantiation or directive here.
+"M:7:1:4" "Sp2025N" ""
+^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(24): Expected device instantiation or directive here.
+"V:7:1:1" "5" ""
+^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(25): Expected device instantiation or directive here.
+"M:7:2:1" "Sp2025P" ""
+^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(26): Expected device instantiation or directive here.
+"M:7:2:4" "Sp2025N" ""
+^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(27): Expected device instantiation or directive here.
+"V:7:2:1" "5" ""
+^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(28): Expected device instantiation or directive here.
+"M:5:1:1" "Sp2025P" ""
+^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(29): Expected device instantiation or directive here.
+"M:5:1:2" "Sp2025P" ""
+^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(30): Expected device instantiation or directive here.
+"M:5:1:3" "Sp2025N" ""
+^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(31): Expected device instantiation or directive here.
+"M:5:1:4" "Sp2025N" ""
+^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(32): Expected device instantiation or directive here.
+"V:5:1:1" "5" ""
+^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(33): Expected device instantiation or directive here.
+"M:5:2:1" "Sp2025P" ""
+^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(34): Expected device instantiation or directive here.
+"M:5:2:4" "Sp2025N" ""
+^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(35): Expected device instantiation or directive here.
+"V:5:2:1" "5" ""
+^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(36): Expected device instantiation or directive here.
+"M:3:1" "Sp2025P" ""
+^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(37): Expected device instantiation or directive here.
+"M:3:4" "Sp2025N" ""
+^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(38): Expected device instantiation or directive here.
+"V:3:1" "5" ""
+^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(39): Expected device instantiation or directive here.
+"M:4:1" "Sp2025P" ""
+^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(40): Expected device instantiation or directive here.
+"M:4:4" "Sp2025N" ""
+^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(41): Expected device instantiation or directive here.
+"V:4:1" "5" ""
+^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(43): Expected device instantiation or directive here.
+"Net Names Table"
+^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(44): Expected device instantiation or directive here.
+"N002" 1
+^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(45): Expected device instantiation or directive here.
+"1:A" 4
+^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(46): Expected device instantiation or directive here.
+"1:N001" 6
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(47): Expected device instantiation or directive here.
+"1:B" 9
+^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(48): Expected device instantiation or directive here.
+"1:N002" 11
+^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(49): Expected device instantiation or directive here.
+"0" 13
+^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(50): Expected device instantiation or directive here.
+"N004" 29
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(51): Expected device instantiation or directive here.
+"2:A" 32
+^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(52): Expected device instantiation or directive here.
+"2:N001" 34
+^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(53): Expected device instantiation or directive here.
+"2:B" 37
+^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(54): Expected device instantiation or directive here.
+"2:N002" 39
+^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(55): Expected device instantiation or directive here.
+"7:N001" 41
+^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(56): Expected device instantiation or directive here.
+"7:1:A" 44
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(57): Expected device instantiation or directive here.
+"7:1:N001" 46
+^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(58): Expected device instantiation or directive here.
+"7:1:B" 49
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(59): Expected device instantiation or directive here.
+"7:1:N002" 51
+^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(60): Expected device instantiation or directive here.
+"N010" 53
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(61): Expected device instantiation or directive here.
+"7:2:A" 61
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(62): Expected device instantiation or directive here.
+"7:2:N001" 63
+^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(63): Expected device instantiation or directive here.
+"5:N001" 65
+^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(64): Expected device instantiation or directive here.
+"5:1:A" 68
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(65): Expected device instantiation or directive here.
+"5:1:N001" 70
+^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(66): Expected device instantiation or directive here.
+"5:1:B" 73
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(67): Expected device instantiation or directive here.
+"5:1:N002" 75
+^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(68): Expected device instantiation or directive here.
+"5:2:A" 77
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(69): Expected device instantiation or directive here.
+"5:2:N001" 79
+^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(70): Expected device instantiation or directive here.
+"3:A" 81
+^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(71): Expected device instantiation or directive here.
+"3:N001" 83
+^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(72): Expected device instantiation or directive here.
+"4:A" 85
+^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(73): Expected device instantiation or directive here.
+"4:N001" 87
+^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(75): Expected device instantiation or directive here.
+"Net Connections Table"
+^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(76): Expected device instantiation or directive here.
+1 1 1 2
+^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(77): Expected device instantiation or directive here.
+1 2 1 3
+^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(78): Expected device instantiation or directive here.
+1 3 1 0
+^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(79): Expected device instantiation or directive here.
+2 1 2 5
+^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(80): Expected device instantiation or directive here.
+2 3 2 0
+^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(81): Expected device instantiation or directive here.
+3 1 3 7
+^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(82): Expected device instantiation or directive here.
+3 2 3 8
+^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(83): Expected device instantiation or directive here.
+3 5 1 0
+^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(84): Expected device instantiation or directive here.
+4 2 2 10
+^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(85): Expected device instantiation or directive here.
+4 4 2 0
+^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(86): Expected device instantiation or directive here.
+5 3 3 12
+^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(87): Expected device instantiation or directive here.
+5 4 1 0
+^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(88): Expected device instantiation or directive here.
+6 4 3 14
+^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(89): Expected device instantiation or directive here.
+6 5 2 15
+^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(90): Expected device instantiation or directive here.
+6 9 3 16
+^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(91): Expected device instantiation or directive here.
+6 10 2 17
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(92): Expected device instantiation or directive here.
+6 14 3 18
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(93): Expected device instantiation or directive here.
+6 15 2 19
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(94): Expected device instantiation or directive here.
+6 17 3 20
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(95): Expected device instantiation or directive here.
+6 18 2 21
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(96): Expected device instantiation or directive here.
+6 22 3 22
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(97): Expected device instantiation or directive here.
+6 23 2 23
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(98): Expected device instantiation or directive here.
+6 25 3 24
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(99): Expected device instantiation or directive here.
+6 26 2 25
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(100): Expected device instantiation or directive here.
+6 28 3 26
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(101): Expected device instantiation or directive here.
+6 29 2 27
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(102): Expected device instantiation or directive here.
+6 31 3 28
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(103): Expected device instantiation or directive here.
+6 32 2 0
+^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(104): Expected device instantiation or directive here.
+7 6 1 30
+^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(105): Expected device instantiation or directive here.
+7 7 1 31
+^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(106): Expected device instantiation or directive here.
+7 8 1 0
+^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(107): Expected device instantiation or directive here.
+8 6 2 33
+^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(108): Expected device instantiation or directive here.
+8 8 2 0
+^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(109): Expected device instantiation or directive here.
+9 6 3 35
+^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(110): Expected device instantiation or directive here.
+9 7 3 36
+^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(111): Expected device instantiation or directive here.
+9 10 1 0
+^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(112): Expected device instantiation or directive here.
+10 7 2 38
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(113): Expected device instantiation or directive here.
+10 9 2 0
+^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(114): Expected device instantiation or directive here.
+11 8 3 40
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(115): Expected device instantiation or directive here.
+11 9 1 0
+^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(116): Expected device instantiation or directive here.
+12 11 1 42
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(117): Expected device instantiation or directive here.
+12 12 1 43
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(118): Expected device instantiation or directive here.
+12 13 1 0
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(119): Expected device instantiation or directive here.
+13 11 2 45
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(120): Expected device instantiation or directive here.
+13 13 2 0
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(121): Expected device instantiation or directive here.
+14 11 3 47
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(122): Expected device instantiation or directive here.
+14 12 3 48
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(123): Expected device instantiation or directive here.
+14 15 1 0
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(124): Expected device instantiation or directive here.
+15 12 2 50
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(125): Expected device instantiation or directive here.
+15 14 2 0
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(126): Expected device instantiation or directive here.
+16 13 3 52
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(127): Expected device instantiation or directive here.
+16 14 1 0
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(128): Expected device instantiation or directive here.
+17 16 1 54
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(129): Expected device instantiation or directive here.
+17 17 1 55
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(130): Expected device instantiation or directive here.
+17 24 1 56
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(131): Expected device instantiation or directive here.
+17 25 1 57
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(132): Expected device instantiation or directive here.
+17 27 1 58
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(133): Expected device instantiation or directive here.
+17 28 1 59
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(134): Expected device instantiation or directive here.
+17 30 1 60
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(135): Expected device instantiation or directive here.
+17 31 1 0
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(136): Expected device instantiation or directive here.
+18 16 2 62
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(137): Expected device instantiation or directive here.
+18 17 2 0
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(138): Expected device instantiation or directive here.
+19 16 3 64
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(139): Expected device instantiation or directive here.
+19 18 1 0
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(140): Expected device instantiation or directive here.
+20 19 1 66
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(141): Expected device instantiation or directive here.
+20 20 1 67
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(142): Expected device instantiation or directive here.
+20 21 1 0
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(143): Expected device instantiation or directive here.
+21 19 2 69
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(144): Expected device instantiation or directive here.
+21 21 2 0
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(145): Expected device instantiation or directive here.
+22 19 3 71
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(146): Expected device instantiation or directive here.
+22 20 3 72
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(147): Expected device instantiation or directive here.
+22 23 1 0
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(148): Expected device instantiation or directive here.
+23 20 2 74
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(149): Expected device instantiation or directive here.
+23 22 2 0
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(150): Expected device instantiation or directive here.
+24 21 3 76
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(151): Expected device instantiation or directive here.
+24 22 1 0
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(152): Expected device instantiation or directive here.
+25 24 2 78
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(153): Expected device instantiation or directive here.
+25 25 2 0
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(154): Expected device instantiation or directive here.
+26 24 3 80
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(155): Expected device instantiation or directive here.
+26 26 1 0
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(156): Expected device instantiation or directive here.
+27 27 2 82
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(157): Expected device instantiation or directive here.
+27 28 2 0
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(158): Expected device instantiation or directive here.
+28 27 3 84
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(159): Expected device instantiation or directive here.
+28 29 1 0
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(160): Expected device instantiation or directive here.
+29 30 2 86
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(161): Expected device instantiation or directive here.
+29 31 2 0
+^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(162): Expected device instantiation or directive here.
+30 30 3 88
+^^^^^^^^^^
+C:\Users\ryano\OneDrive\Desktop\LogicLibraryCustom\two_half_adder_to_nand_to_Xor_with_carry_through_and.net(163): Expected device instantiation or directive here.
+30 32 1 0
+^^^^^^^^^
